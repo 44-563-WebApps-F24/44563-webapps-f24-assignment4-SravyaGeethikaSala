@@ -47,3 +47,32 @@ td{
 tr:nth-child(odd){
     background-color:bisque;
 }
+.CH:hover{
+    text-shadow: 1px 1px 5px red;
+  }
+  .bottom-navbar {
+    background-color:maroon;
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+}
+
+.bottom-navbar a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px; 
+}
+
+.bottom-navbar a:hover {
+    background-color: #ddd;
+    color: rgb(250, 248, 249);
+}
+
+.bottom-navbar a i {
+    margin-right: 5px;
+}
