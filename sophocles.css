@@ -1,1 +1,36 @@
+/* Style for spoken text */
+.speech {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: black;
+}
+
+/* Style for stage directions */
+.direction {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    color: black;
+    background-color: #f0f0f0;  /* Light background */
+    padding: 5px;
+    border-radius: 3px;
+}
+
+/* Hover effect for directions */
+.direction:hover {
+    background-color: #ddd;  /* Darker background on hover */
+    color: red;  /* Text color change on hover */
+}
+
+/* Character styles */
+.cr {
+    color: blue;
+}
+
+.haem {
+    color: green;
+}
+
+.ch {
+    color: purple;
+}
 
