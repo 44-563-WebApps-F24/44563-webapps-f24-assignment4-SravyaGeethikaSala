@@ -1,36 +1,28 @@
-/* Style for spoken text */
 .speech {
-    font-family: Arial, sans-serif;
-    font-size: 16px;
-    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:black;
 }
 
-/* Style for stage directions */
 .direction {
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 14px;
-    color: black;
-    background-color: #f0f0f0;  /* Light background */
-    padding: 5px;
-    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif, serif;
+    font-size: x-small;
+    color:black;
 }
 
-/* Hover effect for directions */
 .direction:hover {
-    background-color: #ddd;  /* Darker background on hover */
-    color: red;  /* Text color change on hover */
+    background-color: rgb(246, 246, 208);
+    color:white;
 }
 
-/* Character styles */
-.cr {
-    color: blue;
+.CR{
+    color: rgb(230, 8, 8);
 }
 
-.haem {
-    color: green;
+.CH{
+    color: blueviolet;
 }
 
-.ch {
-    color: purple;
+.HAEM{
+    color:rgb(7, 233, 89);
 }
-
