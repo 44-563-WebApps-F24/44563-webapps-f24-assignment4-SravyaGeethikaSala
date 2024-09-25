@@ -26,3 +26,24 @@
 .HAEM{
     color:rgb(7, 233, 89);
 }
+table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    color:Maroon;
+
+}
+th{
+    text-align: center;
+    padding: 5px;
+}
+td{
+    text-align: left ;
+    padding: 6px;
+}
+td{
+    text-align: left;
+    padding: 4px;
+}
+tr:nth-child(odd){
+    background-color:bisque;
+}
