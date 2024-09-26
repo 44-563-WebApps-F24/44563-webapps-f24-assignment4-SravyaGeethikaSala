@@ -2,4 +2,4 @@
 # WebApps-F24-Assignment-4
 A practice assignment for HTML with CSS <br>
 
-Hosted at :  https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment4-SravyaGeethikaSala/ 
+Hosted at :  https://44-563-webapps-f24.github.io/44563-webapps-f24-assignment4-SravyaGeethikaSala/greekplay.html
